@@ -1,0 +1,17 @@
+goal:
+
+Recreating the Monster Slayer with components
+
+
+later {
+
+
+Using , VueMaterial, (Vuetify), VueSax
+Selecter menu before starting the game ...
+-> complete new component which will lead to the actual "game" have no clue how to programm that yet at the moment.
+}
+ @attack="whatever" @special="whatever" @heal="whatever"
+
+ submit info.enemy and info.player through infoPlayer and infoEnemy...
+
+ tomrrow...
